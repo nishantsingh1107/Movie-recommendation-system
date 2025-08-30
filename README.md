@@ -201,10 +201,6 @@ Contributions are welcome! Here's how you can help:
 - Additional datasets integration
 - Performance optimization
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 
 **Nishant Singh** - [nishantsingh1107](https://github.com/nishantsingh1107)
